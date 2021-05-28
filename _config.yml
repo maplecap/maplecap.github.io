@@ -1,4 +1,0 @@
-theme: jekyll-theme-slate
-name: MapleCap, Horrible Cop
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
